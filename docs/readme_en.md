@@ -39,10 +39,6 @@
  - Show a lot of my other sites!
 
  ---
-               
- https://github.com/mishakorzik/mishakorzik.github.io
-              
- ---
 
  # Features
 
@@ -55,7 +51,6 @@
 
  # Design
 
-
 1.<a href="https://github.com/mishakorzik/Termux-1">хакинг#1</a>
 
 2.<a href="https://github.com/mishakorzik/Games">топ 15-30крутих игор</a>
@@ -67,7 +62,6 @@
 5.<a href="https://github.com/mishakorzik/Termux-2-">хакинг#2</a>
 
 6.<a href="https://github.com/mishakorzik/termux-sms-bomber300">sms-bomber300</a>
-
 
  # Security Policy
 
