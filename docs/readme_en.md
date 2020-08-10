@@ -51,15 +51,15 @@
 
  # Design
 
-1.<a href="https://github.com/mishakorzik/Termux-1">хакинг#1</a>
+1.<a href="https://github.com/mishakorzik/Termux-1">hacking#1</a>
 
-2.<a href="https://github.com/mishakorzik/Games">топ 15-30крутих игор</a>
+2.<a href="https://github.com/mishakorzik/Games">top 15-30 games</a>
 
-3.<a href="https://github.com/mishakorzik/secret_apps">секретние приложение</a>
+3.<a href="https://github.com/mishakorzik/secret_apps">secret program</a>
 
-4.<a href="https://github.com/mishakorzik/mindustry-maps-">миндустри карти</a>
+4.<a href="https://github.com/mishakorzik/mindustry-maps-">mindustry maps</a>
 
-5.<a href="https://github.com/mishakorzik/Termux-2-">хакинг#2</a>
+5.<a href="https://github.com/mishakorzik/Termux-2-">hacking#2</a>
 
 6.<a href="https://github.com/mishakorzik/termux-sms-bomber300">sms-bomber300</a>
 
