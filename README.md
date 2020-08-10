@@ -15,7 +15,7 @@
     <a href="https://github.com/mishakorzik/mishakorzik.menu.io/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/mishakorzik/mishakorzik.github.io/issues">
+    <a href="https://github.com/mishakorzik/mishakorzik.menu.io/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
