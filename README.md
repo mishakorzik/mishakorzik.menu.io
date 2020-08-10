@@ -12,7 +12,7 @@
     <p align="center">  <a href="http://standardjs.com/">
     <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="JavaScript Style Guide" />
   </a>
-    <a href="https://github.com/mishakorzik/mishakorzik.github.io/pulls">
+    <a href="https://github.com/mishakorzik/mishakorzik.menu.io/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <a href="https://github.com/mishakorzik/mishakorzik.github.io/issues">
