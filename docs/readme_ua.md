@@ -48,8 +48,8 @@ https://github.com/mishakorzik/mishakorzik.github.io
 
 - [Проекти](#Проекти)
 - [Top Languages](#Top-Languages) 
-- [Platforms](#Platforms)
-- [MIT License](#MIT-License)
+- [Платформи](#Планформи)
+- [Ліцензія](#Ліцензія)
 
 ---
 
