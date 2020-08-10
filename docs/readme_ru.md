@@ -40,10 +40,6 @@
 - Показивать множество других моих сайтов!
 
 ---
-               
-https://github.com/mishakorzik/mishakorzik.github.io     
-              
----
 
 # Features
 
@@ -56,17 +52,18 @@ https://github.com/mishakorzik/mishakorzik.github.io
 
 # Проекти
 
-1. https://github.com/mishakorzik/Termux-1
 
-2. https://github.com/mishakorzik/Games
+1.<a href="https://github.com/mishakorzik/Termux-1">хакинг#1</a>
 
-3. https://github.com/mishakorzik/secret_apps
+2.<a href="https://github.com/mishakorzik/Games">топ 15-30крутих игор</a>
 
-4. https://github.com/mishakorzik/mindustry-maps-
+3.<a href="https://github.com/mishakorzik/secret_apps">секретние приложение</a>
 
-5. https://github.com/mishakorzik/Termux-2-
+4.<a href="https://github.com/mishakorzik/mindustry-maps-">миндустри карти</a>
 
-6. https://github.com/mishakorzik/termux-sms-bomber300
+5.<a href="https://github.com/mishakorzik/Termux-2-">хакинг#2</a>
+
+6.<a href="https://github.com/mishakorzik/termux-sms-bomber300">sms-bomber300</a>
 
 
 # Security Policy
