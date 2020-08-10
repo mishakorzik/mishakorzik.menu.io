@@ -10,4 +10,4 @@ gmail: misakorzik528@gmail.com
 
 ПАКА УДАЧИ!!
 
-<a href="README.md">Клацніть сюди щоб повернутися на початок</a>
+<a href="README.md">ERR2</a>
