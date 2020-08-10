@@ -173,7 +173,7 @@ without source code.
 
 ## The end
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)  [![paypal.me/mishakorzik](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mishakorzik)
 
  
 
