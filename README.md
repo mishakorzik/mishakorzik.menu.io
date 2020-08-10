@@ -146,7 +146,7 @@ https://www.instagram.com/korzik_misha/
 
 mishakorzik/mishakorzik.github.io is licensed under the
 
-# MIT License
+# MIT License   
 A short and simple permissive license with conditions 
 only requiring preservation of copyright and license 
 notices. Licensed works, modifications, and larger 
@@ -186,3 +186,5 @@ without source code.
 
 - By mishakorzik (DeplayGo)
 - Создатель Міша Коржик (DeplayGo)
+
+<a href="/docs/readme_cn.md">简体中文</a>
