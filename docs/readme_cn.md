@@ -99,7 +99,7 @@
 
  
 
- ＃ <a href="readme_es.md">熱門語言</a> 
+ ＃ <a href="/docs/readme_es.md">熱門語言</a> 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
