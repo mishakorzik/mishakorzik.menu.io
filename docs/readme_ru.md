@@ -42,11 +42,12 @@
 
 # Features
 
+- <a href="https://standardjs.com/">джава скрипт</a>
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - [Проекти](#Проекти)
 - [Top-Languages](#Top-Languages) 
 - [платформи](#платформи)
-- [MIT License](#MIT-License)
+- [Лицензия](#Лицензия)
 
 ---
 
@@ -150,7 +151,7 @@ https://www.instagram.com/korzik_misha/
 
 mishakorzik/mishakorzik.github.io is licensed under the
 
-# MIT License
+# Лицензия
 A short and simple permissive license with conditions 
 only requiring preservation of copyright and license 
 notices. Licensed works, modifications, and larger 
