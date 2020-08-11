@@ -43,6 +43,7 @@
 
  # Features
 
+ - <a href="/exaples/Readme_reklams.md">Реклама</a>
  - [Design](#Design)
  - [Top Languages](#Top-Languages)
  - [Platforms](#Platforms)
