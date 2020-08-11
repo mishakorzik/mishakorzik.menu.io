@@ -40,7 +40,7 @@
 
 ---
 
-# Features
+# Любимое
 
 - <a href="https://standardjs.com/">джава скрипт</a>
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
@@ -69,14 +69,14 @@
 7.<a href="https://github.com/mishakorzik/DDos-Attack/tree/master">Termux DDos-Attack</a>
 
 
-# Security Policy
+# Полиция безпеки
 
-## Supported Versions
+## Потдержание версии
 
 Використовуйте цей розділ, щоб повідомити людям про те, які версії вашого проекту є
  наразі підтримується оновленнями безпеки.
 
-| Version | Supported          |
+| Версия  | Подтримувальние    |
 | ------- | ------------------ |
 | 5.1.x   |  ✔️                |
 | 5.0.x   |  ❌                |
@@ -133,7 +133,7 @@ https://www.instagram.com/korzik_misha/
 
 ---
 
-# Privacy Policy
+# Приватна информация
 
 ## система безопасности
 Ми збираємо адреси електронної пошти тих, хто 
