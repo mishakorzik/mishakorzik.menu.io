@@ -44,6 +44,7 @@
 
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - [Проекти](#Проекти)
+- <a href="https://standardjs.com/">javascript</a>
 - [Top Languages](#Top-Languages) 
 - [Platforms](#Platforms)
 - [MIT License](#MIT-License)
