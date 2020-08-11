@@ -44,7 +44,7 @@
 
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - [Проекти](#Проекти)
-- [Top launges](#Top launges) 
+- [Top-Languages](#Top-Languages) 
 - [платформи](#платформи)
 - [MIT License](#MIT-License)
 
@@ -111,7 +111,7 @@ https://www.instagram.com/korzik_misha/
 
  
 
-# Top launges
+# Top-Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
