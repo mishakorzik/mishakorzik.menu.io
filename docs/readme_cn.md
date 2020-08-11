@@ -121,7 +121,7 @@
 
  ---
 
- ＃ 隱私政策
+ ＃ <a href="ERR.mdR">隱私政策 </a> 
 
  ＃＃ 保安系統
  我們收集那些人的電子郵件地址
@@ -154,17 +154,20 @@
 
  -分佈
 
- -私人使用
+ - <a ">私人使用</a> 
 
- -局限性
+
+ - 局限性 <a href="ERR.mdR">局限性</a> 
+
 
  ###局限性
 
- -責任
+ - <a href="ERR.mdR">責任</a> 
 
- -保修
+ - 保修
 
- ＃＃ 結束
+ ＃＃ <a href="ERR.mdR">熱門語言</a> 
+
 
  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
