@@ -26,13 +26,13 @@
  <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>  
   </p>
-  <p align="center">
+  <h3 align="center">
     <a href="/docs/readme_ua.md">Ukraine</a>
     ·
     <a href="/docs/readme_en.md">English</a>
     ·
     <a href="/docs/readme_ru.md">Russia</a>
-    ·
+</h3>
   
 
 - Привіт ти попав(да) на  mishakorzik.github.io цей сайт будет
