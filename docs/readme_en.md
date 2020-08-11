@@ -42,7 +42,8 @@
 
  # Features
 
- - <a href="/exaples/Readme_reklams.md">Реклама</a>
+ - <a href="/exaples/Readme_reklams.md">recklams</a>
+ - <a href="https://standardjs.com/">javascript</a>
  - [Design](#Design)
  - [Top Languages](#Top-Languages)
  - [Platforms](#Platforms)
