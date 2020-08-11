@@ -44,8 +44,8 @@
 
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - [Проекти](#Проекти)
-- [Top Languages](#Top-Languages) 
-- [Platforms](#Platforms)
+- [топ мов програмирование](#Топ мов програмування) 
+- [платформи](#платформи)
 - [MIT License](#MIT-License)
 
 ---
@@ -111,7 +111,7 @@ https://www.instagram.com/korzik_misha/
 
  
 
-# Top Languages
+# Топ мов програмування
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
@@ -120,7 +120,7 @@ https://www.instagram.com/korzik_misha/
 
 ---
 
-## Platforms
+## Платформи
 Це показує на яких пристроях є цей сайт.
 
 - Windows 
