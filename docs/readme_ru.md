@@ -45,8 +45,8 @@
 - <a href="https://standardjs.com/">джава скрипт</a>
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - [Проекти](#Проекти)
-- [Top-Languages](#Top-Languages) 
-- [платформи](#платформи)
+- [Основние мови](#Основние-мови) 
+- [Платформи](#платформи)
 - [Лицензия](#Лицензия)
 
 ---
@@ -114,7 +114,7 @@ https://www.instagram.com/korzik_misha/
 
  
 
-# Top-Languages
+# Основние мови
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
