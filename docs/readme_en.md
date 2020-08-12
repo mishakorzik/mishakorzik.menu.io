@@ -50,6 +50,8 @@
  - [Platforms](#Platforms)
  - [MIT License](#MIT-License)
 
+ [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
+
  ---
 
  # Design
