@@ -192,7 +192,7 @@
 
 
 
-- By mishakorzik (DeplayGo)
-- Создатель Міша Коржик 
+###### By mishakorzik (DeplayGo)
+###### Создатель Міша Коржик 
 
 <a href="/docs/readme_cn.md">简体中文</a>
