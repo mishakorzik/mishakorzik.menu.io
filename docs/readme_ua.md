@@ -60,15 +60,15 @@
 
 3.<a href="https://github.com/mishakorzik/secret_apps">секретние приложение</a>
 
-4.<a href="https://github.com/mishakorzik/mindustry-maps-">миндустри карти</a>
+4.<a href="https://github.com/mishakorzik/mindustry-maps-">міндустри карти</a>
 
 5.<a href="https://github.com/mishakorzik/Termux-2-">хакинг#2</a>
 
-6.<a href="https://github.com/mishakorzik/termux-sms-bomber300">sms-bomber300</a>
+6.<a href="https://github.com/mishakorzik/termux-sms-bomber300">смс-бомбер300</a>
 
-7.<a href="https://github.com/mishakorzik/DDos-Attack/tree/master">Termux DDos-Attack</a>
+7.<a href="https://github.com/mishakorzik/DDos-Attack/tree/master">Термукс дос-атак</a>
 
-8.<a href="https://github.com/mishakorzik/mindustry.packmod">mindustry-packmod</a>
+8.<a href="https://github.com/mishakorzik/mindustry.packmod">міндустрі-пакмод-</a>
 
 
 # Поліція безпеки
