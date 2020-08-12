@@ -192,6 +192,6 @@ mishakorzik/mishakorzik.github.io is licensed under the
 
 
 
-- By mishakorzik (DeplayGo)
-- Создатель Міша Коржик 
+###### By mishakorzik (DeplayGo)
+###### Создатель Міша Коржик 
 
