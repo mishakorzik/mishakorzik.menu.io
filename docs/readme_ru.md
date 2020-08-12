@@ -154,31 +154,31 @@ https://www.instagram.com/korzik_misha/
 mishakorzik/mishakorzik.github.io is licensed under the
 
 # Лицензия
-A short and simple permissive license with conditions 
-only requiring preservation of copyright and license 
-notices. Licensed works, modifications, and larger 
-works may be distributed under different terms and 
-without source code.
+Коротка та проста дозвільна лицензионная с умовами 
+вимагає лише збереження авторских прав та ліцензії
+повідомлення.  Ліцензованные твори, модифицирующие 
+тощо твори можно расширять за пределы умов и без 
+вихідного кода.
 
-### Permissions
+### Разрешения
 
-- ✔️Commercial use
+ - ✔️Коммерческое использование
 
-- ✔️Modification
+ - ✔️Модификация
 
-- ✔️Distribution
+ - ✔️Распространение
 
-- ✔️Private use
+ - ✔️Частное использование
 
-- ✔️Limitations
+ - ✔️Ограничения
 
-### limitations
+ ### ограничения
 
-- ❌Liability
+ - ❌Ответственность
 
-- ❌Warranty
+ - ❌Гарантия
 
-## The end
+## Конец
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
