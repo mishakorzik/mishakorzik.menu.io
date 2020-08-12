@@ -190,6 +190,6 @@ without source code.
 
 
 
-- By mishakorzik (DeplayGo)
-- Создатель Міша Коржик (DeplayGo)
+###### By mishakorzik (DeplayGo)
+###### Создатель Міша Коржик (DeplayGo)
 
