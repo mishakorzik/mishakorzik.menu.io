@@ -81,6 +81,28 @@
 Використовуйте цей розділ, щоб повідомити людям про те, які версії вашого проекту є
  наразі підтримується оновленнями безпеки.
 
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+И можеш не переживать етод сайт конфедициально защищений
+И сертификат безпеки еще рабочий и з'єднання есть защищенное
+###### by mishakorzik
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+Если ти еще не вериш то ти можеш посмотреть нашу лицензию
+Или посмотреть Security Policy там можна посмотреть какие
+У нас версии саме новие и свежие.
+
+###### by mishakorzik
+
+</details>
+
 | Версия  | Подтримувальние    |
 | ------- | ------------------ |
 | 5.1.x   |  ✔️                |
@@ -145,6 +167,29 @@ https://www.instagram.com/korzik_misha/
 спілкується и относиться к нам хорошо все их данние 
 Конфедициально защищение.
 
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+И можеш не переживать етод сайт конфедициально защищений
+И сертификат безпеки еще рабочий и з'єднання есть защищенное
+###### by mishakorzik
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+Если ти еще не вериш то ти можеш посмотреть нашу лицензию
+Или посмотреть Security Policy там можна посмотреть какие
+У нас версии саме новие и свежие.
+
+###### by mishakorzik
+
+</details>
+
 ## Загальна інформація
 
 Ми збираємо адреси електронної пошти тих, хто 
@@ -185,6 +230,13 @@ mishakorzik/mishakorzik.github.io is licensed under the
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
+<details id="missing-code-coverage">
+  <summary>Напоминание</summary>
+
+Не забуть зайти на Realises там еще больше информация
+О безпеки и не только рекомендую зайти!
+
+</details>
  
 
 
