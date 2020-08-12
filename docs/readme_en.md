@@ -80,6 +80,15 @@
  Vikoristyte tsei razdil, tell people about those versions of your project є
   on the other hand, to adapt to the new features of safety.
 
+<details id = "missing-code-coverage">
+   <summary> Dodatkove </summary>
+
+ It can even be seen here that we have the newest version of the safe
+ 5.1.x means that we have a new one
+ The version is secure and the site is officially protected
+
+ </details>
+
  |  Version |  Supported          |
  |  ------- |  ------------------ |
  |  5.1.x   |  ✔️                 |
@@ -144,6 +153,28 @@
  splitting up and treating us well all their data
  Confidential protection.
 
+</details>
+
+ <details id = "missing-code-coverage">
+   <summary> Dodatkove </summary>
+
+ And you don’t have to worry about this site privacy protection
+ And the certificate is safe and still working and there is a protected
+ ###### by mishakorzik
+
+ </details>
+
+ <details id = "missing-code-coverage">
+   <summary> Dodatkove </summary>
+
+ If you don’t believe yet, you can see our license
+ Or look at the Security Policy there you can see what
+ Our versions are new and fresh.
+
+ ###### by mishakorzik
+
+ </details>
+
  ## General information
 
  Mi zbiraєmo address of the electronic send quiet, hto
@@ -185,7 +216,14 @@
 
  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
- 
+ <details id = "missing-code-coverage">
+   <summary> Reminder </summary>
+
+ Don't forget to visit Realises for even more information
+ About safety and not only I recommend to come!
+
+ </details>
+
 
 
                Pliss me like!                          INCIDENCE
