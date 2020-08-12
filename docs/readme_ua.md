@@ -46,7 +46,7 @@
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - <a href="https://standardjs.com/">джава скрипт</a>
 - [Проекти](#Проекти)
-- [топ мов програмування](#популярні мови програмування) 
+- [топ мов програмування](#Мови програмування) 
 - [Платформи](#Планформи)
 - [Ліцензія](#Ліцензія)
 
@@ -114,7 +114,7 @@ https://www.instagram.com/korzik_misha/
 
  
 
-# популярні мови програмування
+# мови програмування
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
