@@ -79,6 +79,15 @@
 Використовуйте цей розділ, щоб повідомити людям про те, які версії вашого проекту є
  наразі підтримується оновленнями безпеки.
 
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+Здесь даже видно что у нас самая новая версия безпеки
+5.1.x ето значить что у нас потдерживаеться новая 
+Версия безпеки и сайт есть официально защищенни
+
+</details>
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 5.1.x   |  ✔️                |
@@ -127,12 +136,12 @@ https://www.instagram.com/korzik_misha/
 ## Platforms
 Це показує на яких пристроях є цей сайт.
 
-- Windows 
-- macOS
-- Linux
+- Windows                      
+- macOS              
+- Linux              
 - FreeBSD
 - Android
-- iOS
+- iOS                 
 
 ---
 
@@ -142,6 +151,28 @@ https://www.instagram.com/korzik_misha/
 Ми збираємо адреси електронної пошти тих, хто 
 спілкується и относиться к нам хорошо все их данние 
 Конфедициально защищение.
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+И можеш не переживать етод сайт конфедициально защищений
+И сертификат безпеки еще рабочий и з'єднання есть защищенное
+###### by mishakorzik
+
+</details>
+
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+Если ти еще не вериш то ти можеш посмотреть нашу лицензию
+Или посмотреть Security Policy там можна посмотреть какие
+У нас версии саме новие и свежие.
+
+###### by mishakorzik
+
+</details>
 
 ## Загальна інформація
 
@@ -183,6 +214,15 @@ without source code.
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)  [![paypal.me/mishakorzik](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/mishakorzik)
 
+
+
+<details id="missing-code-coverage">
+  <summary>Напоминание</summary>
+
+Не забуть зайти на Realises там еще больше информация
+О безпеки и не только рекомендую зайти!
+
+</details>
  
 
 
