@@ -6,7 +6,7 @@
  <p align="center"> Welcome too mishakorzik.github.io get started!</p
 
      
- [![GitHub release](https://img.shields.io/github/release/castagnait/plugin.video.netflix.svg)](https://github.com/mishakorzik.github.io/mishakorzik.github.io/mishakorzik.github.io)
+ [![GitHub release](https://img.shields.io/github/release/castagnait/plugin.video.netflix.svg)](https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.7.1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/MathewSachin/Captura/total.svg?style=flat-square)](https://mathewsachin.github.io/Captura/download)
     <p align="center">  <a href="http://standardjs.com/">
