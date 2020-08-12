@@ -46,7 +46,7 @@
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - <a href="https://standardjs.com/">джава скрипт</a>
 - [Проекти](#Проекти)
-- [Основні мови](#Top languages) 
+- [Top languages](#Top languages) 
 - [Платформи](#Планформи)
 - [Ліцензія](#Ліцензія)
 
