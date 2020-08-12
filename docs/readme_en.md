@@ -67,6 +67,8 @@
 
 7.<a href="https://github.com/mishakorzik/DDos-Attack/tree/master">Termux DDos-Attack</a>
 
+8.<a href="https://github.com/mishakorzik/mindustry.packmod">mindustry-packmod</a>
+
 
  # Security Policy
 
