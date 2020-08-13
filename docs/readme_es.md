@@ -9,6 +9,8 @@ gmail: misakorzik528@gmail.com
 И я сразу же отвечу! 
 И ти сможеш мне написать мне что угодно 
 
+<a href="https://github.com/mishakorzik/mishakorzik.menu.io">Повернутися назад в меню</a>
+
 ПАКА УДАЧИ!!
 
 <a href="README.md">ERR2</a>
