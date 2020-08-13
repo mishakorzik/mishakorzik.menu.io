@@ -114,6 +114,12 @@ this button!
   they talked about the disagreement, which was okay, if the disagreement would be accepted anyway
   seeing me thin.
 
+- [x] 1. Privaty police
+
+- [x] 2. MIT license
+
+- [x] 3. Security Policy
+
  # Feedback
 
  Gmail: misakorzik528@gmail.com
