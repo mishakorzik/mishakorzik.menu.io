@@ -50,6 +50,16 @@
  - [Platforms](#Platforms)
  - [MIT License](#MIT-License)
 
+<details id = "missing-code-coverage">
+   <summary>Extras</summary>
+
+Here you can see the red FAILED button if you click
+on it then you will go to reportbugs this button takes 
+you to another page then if you find a bug click on 
+this button!
+ 
+</details>
+
  [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
 
  ---
@@ -156,7 +166,7 @@
 </details>
 
  <details id = "missing-code-coverage">
-   <summary> Dodatkove </summary>
+   <summary>Dodatkove</summary>
 
  And you don’t have to worry about this site privacy protection
  And the certificate is safe and still working and there is a protected
