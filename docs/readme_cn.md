@@ -99,7 +99,7 @@
 
  
 
- ＃ <a href="/docs/readme_es.md">熱門語言</a> 
+ ＃ 熱門語言 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
@@ -146,7 +146,7 @@
  作品可能以不同的條款分發，並且
  沒有源代碼。
 
- ###權限
+ ### <a href="/docs/readme_es.md">權限</a>
 
  -omCommercial use
 
@@ -160,13 +160,13 @@
  - 局限性 <a href="ERR.mdR">局限性</a> 
 
 
- ###局限性
+ ### 局限性
 
  - <a href="ERR.mdR">責任</a> 
 
  - 保修
 
- ＃＃ <a href="ERR.mdR">熱門語言</a> 
+ ## <a href="ERR.mdR">熱門語言</a> 
 
 
  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
