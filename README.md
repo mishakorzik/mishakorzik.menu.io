@@ -113,6 +113,14 @@
  повідомили про вразливість, чого очікувати, якщо вразливість буде прийнята або
  відхилився тощо.
 
+
+- [x] 1. Privaty police
+
+- [x] 2. MIT license
+
+- [x] 3. Security Policy
+
+
 # обратная связь
 
 Gmail: misakorzik528@gmail.com
