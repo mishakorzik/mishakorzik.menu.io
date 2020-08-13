@@ -8,7 +8,8 @@ Gmail: misakorzik528@gmail.com
 Что некоректно работает и пришлице нам скрини или видео 
 Про сам баг.
 
-<a href="https://github.com/mishakorzik/mishakorzik.menu.io">Повернутися на самий початок</a>    
+[![CircleCI](https://circleci.com/gh/mumoshu/variant.svg?style=svg)](https://github.com/mishakorzik/mishakorzik.menu.io)
+
 
 ## ПАКА УДАЧИ!!
 
