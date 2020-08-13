@@ -34,6 +34,18 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=foundation_foundation-sites&metric=alert_status)](https://sonarcloud.io/dashboard?id=foundation_foundation-sites)
 [![Known Vulnerabilities](https://snyk.io/test/github/foundation/foundation-sites/badge.svg)](https://snyk.io/test/github/foundation/foundation-sites)
 [![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=ZlJCVGIxaEgvaFc4TWhBZ0hFWGtIMjBRZEw0UnFrUys3ZGdrbmZ6TW5lZz0tLU9wZUdFV2lmNVd1dU9XbWxuQ05BOGc9PQ==--915d78e23eeed2ae37ce7a670bc370011a9e4fd9)](https://automate.browserstack.com/public-build/ZlJCVGIxaEgvaFc4TWhBZ0hFWGtIMjBRZEw0UnFrUys3ZGdrbmZ6TW5lZz0tLU9wZUdFV2lmNVd1dU9XbWxuQ05BOGc9PQ==--915d78e23eeed2ae37ce7a670bc370011a9e4fd9)
+[![PyPI version](https://badge.fury.io/py/isort.svg)](https://badge.fury.io/py/isort)
+[![Test Status](https://github.com/timothycrosley/isort/workflows/Test/badge.svg?branch=develop)](https://github.com/timothycrosley/isort/actions?query=workflow%3ATest)
+[![Lint Status](https://github.com/timothycrosley/isort/workflows/Lint/badge.svg?branch=develop)](https://github.com/timothycrosley/isort/actions?query=workflow%3ALint)
+[![Code coverage Status](https://codecov.io/gh/timothycrosley/isort/branch/develop/graph/badge.svg)](https://codecov.io/gh/timothycrosley/isort)
+[![Maintainability](https://api.codeclimate.com/v1/badges/060372d3e77573072609/maintainability)](https://codeclimate.com/github/timothycrosley/isort/maintainability)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://pypi.org/project/isort/)
+[![Join the chat at https://gitter.im/timothycrosley/isort](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/timothycrosley/isort?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Downloads](https://pepy.tech/badge/isort)](https://pepy.tech/project/isort)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://timothycrosley.github.io/isort/)
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/timothycrosley/isort/?ref=repository-badge)
+
 
 
     
