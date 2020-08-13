@@ -51,6 +51,16 @@
 - [Платформи](#Планформи)
 - [Ліцензія](#Ліцензія)
 
+<details id="missing-code-coverage">
+  <summary>Додаткове</summary>
+
+Ось тута можна побачити червону кнопку FAILED якщо на
+ Неї нажати то ти перейдеш на reportbugs ця кнопка тебе
+ Переводить на іншу страницю то якщо ти знайшов баг клікай
+ На цю кнопку!
+
+</details>
+
  [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
 
 ---
