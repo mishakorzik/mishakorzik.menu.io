@@ -58,9 +58,11 @@
  Переводит на другую странице то если ты нашел баг кликай
  На эту кнопку!
 
+###### by mishakorzik
+
 </details>
 
- [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
+#### <a href="/docs/readme.reportbugs.md">report bugs</a>
 
 ---
 
@@ -251,6 +253,8 @@ mishakorzik/mishakorzik.github.io is licensed under the
 
 Не забуть зайти на Realises там еще больше информация
 О безпеки и не только рекомендую зайти!
+
+###### by mishakorzik
 
 </details>
  
