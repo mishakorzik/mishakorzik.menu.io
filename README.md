@@ -53,14 +53,14 @@
 <details id="missing-code-coverage">
   <summary>знайшли баг?</summary>
 
-Вот тута можно увидеть красную кнопку FAILED если
+Вот тута можно увидеть кнопку FAILED если на 
  Нее нажать то ты перейдешь на reportbugs эта кнопка тебя
- Переводит на другую странице то если ты нашел баг кликай
+ Переводит на другую страницу то если ты нашел баг кликай
  На эту кнопку!
 
 </details>
 
- [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
+<a href="/docs/reportbugs
 
 ---
 
