@@ -60,7 +60,7 @@
 
 </details>
 
-<a href="/docs/reportbugs
+<a href="/docs/readme.reportbugs.md">FAILED</a>
 
 ---
 
