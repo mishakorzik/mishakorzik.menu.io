@@ -53,14 +53,14 @@
 <details id="missing-code-coverage">
   <summary>знайшли баг?</summary>
 
-Вот тута можно увидеть кнопку FAILED если на 
+Вот тута можно увидеть кнопку report bugs если на 
  Нее нажать то ты перейдешь на reportbugs эта кнопка тебя
  Переводит на другую страницу то если ты нашел баг кликай
  На эту кнопку!
 
 </details>
 
-<a href="/docs/readme.reportbugs.md">FAILED</a>
+#### <a href="/docs/readme.reportbugs.md">report bugs</a>
 
 ---
 
