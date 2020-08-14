@@ -70,7 +70,7 @@
  |  4.0.x  |  ✔️                   |
  |  <4.0   |  ❌                   |
 
- ##報告漏洞
+ ## <a href="ERR.mdR">報告漏洞 </a> 
 
  使用此部分可以告訴人們如何報告漏洞。
 
@@ -85,7 +85,7 @@
  如有疑問，您可以在評論中寫信給我們
  或使用gmail，因為它對您來說很方便，但在gmail上效果更好。
 
- # 社會 網路
+ # 社會 網路 
 
  您好，如果您可以
  在社會上關注我們。 網路
@@ -99,7 +99,7 @@
 
  
 
- # 熱門語言 
+ #  <a href="ERR.mdR">Error</a> 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
@@ -109,7 +109,7 @@
  
  ---
 
- ## 平台
+ ## <a href="ERR.mdR">平台</a> 
  這顯示哪些設備具有此站點。
 
  -Windows
@@ -128,7 +128,7 @@
  很好地溝通和對待我們所有數據
  機密保護。
 
- ## 一般信息
+ ## <a href="ERR.mdR">一般信息</a> 
 
  我們收集那些人的電子郵件地址
  通過電子郵件與我們溝通，總結
