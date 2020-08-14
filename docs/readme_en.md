@@ -58,7 +58,7 @@ on it then you will go to reportbugs this button takes
 you to another page then if you find a bug click on 
 this button!
 
-####### by mishakorzik
+###### by mishakorzik
 
 </details>
 
