@@ -34,5 +34,5 @@
     ·
     <a href="/docs/readme_koreiska.md">한국어</a>
     ·
-    <a href="/docs/readme_ru.md">Russia</a>
+    <a href="/docs/readme_.md
 </h3>
