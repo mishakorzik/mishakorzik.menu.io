@@ -31,7 +31,7 @@
 
  ---
 
- ＃ 特徵
+ # 特徵
 
  -[項目]（#Projects）
  -[主要語言]
@@ -40,7 +40,7 @@
 
  ---
 
- ＃項目
+ # 項目
 
 
  1. <a href="https://github.com/mishakorzik/Termux-1">入侵＃1 </a>
@@ -56,9 +56,9 @@
  6. <a href="https://github.com/mishakorzik/termux-sms-bomber300"> sms-bomber300 </a>
 
 
- ＃安全政策
+ # 安全政策
 
- ##支持的版本
+ ## 支持的版本
 
  使用此部分可以使人們知道項目的哪些版本可用
   當前受安全更新支持。
@@ -78,14 +78,14 @@
   報告了一個漏洞，如果該漏洞被接受，將會發生什麼？
   偏離等
 
- ＃ 反饋
+ # 反饋
 
  Gmail：misakorzik528@gmail.com
 
  如有疑問，您可以在評論中寫信給我們
  或使用gmail，因為它對您來說很方便，但在gmail上效果更好。
 
- ＃社會 網路
+ # 社會 網路
 
  您好，如果您可以
  在社會上關注我們。 網路
@@ -99,7 +99,7 @@
 
  
 
- ＃ 熱門語言 
+ # 熱門語言 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
@@ -109,7 +109,7 @@
  
  ---
 
- ##平台
+ ## 平台
  這顯示哪些設備具有此站點。
 
  -Windows
@@ -121,14 +121,14 @@
 
  ---
 
- ＃ <a href="ERR.mdR">隱私政策 </a> 
+ # <a href="ERR.mdR">隱私政策 </a> 
 
  ＃＃ 保安系統
  我們收集那些人的電子郵件地址
  很好地溝通和對待我們所有數據
  機密保護。
 
- ＃＃ 一般信息
+ ## 一般信息
 
  我們收集那些人的電子郵件地址
  通過電子郵件與我們溝通，總結
