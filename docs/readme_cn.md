@@ -29,6 +29,14 @@
     </a>  
   </p>
 
+<h3 align="center">
+    <a href="/docs/readme_eponia.md">日本人</a>
+    ·
+    <a href="/docs/readme_koreiska.md">한국어</a>
+    ·
+    <a href="/docs/readme_ru.md">Russia</a>
+</h3>
+
  ---
 
  # 特徵
