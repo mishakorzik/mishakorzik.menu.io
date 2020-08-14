@@ -46,6 +46,10 @@
 [![Imports: isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://timothycrosley.github.io/isort/)
 [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/timothycrosley/isort/?ref=repository-badge)
 
+[SQLCipher]: https://www.zetetic.net/sqlcipher/
+[Full-text search]: Documentation/Index.md#full-text-search
+[See Documentation]: Documentation/Index.md#sqliteswift-documentation
+
 
 
     
