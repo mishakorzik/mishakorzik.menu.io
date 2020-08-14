@@ -54,14 +54,16 @@
 <details id="missing-code-coverage">
   <summary>Додаткове</summary>
 
-Ось тута можна побачити червону кнопку FAILED якщо на
+Ось тута можна побачити червону кнопку report bugs якщо на
  Неї нажати то ти перейдеш на reportbugs ця кнопка тебе
  Переводить на іншу страницю то якщо ти знайшов баг клікай
  На цю кнопку!
 
+###### by mishakorzik
+
 </details>
 
- [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
+#### <a href="/docs/readme.reportbugs.md">report bugs</a>
 
 ---
 
@@ -97,6 +99,8 @@
 Тут навіть видно що у нас найновіша версія безпеки
  5.1.x ето значить що у нас потдержіваеться нова
  Версія безпеки і сайт є офіційно захищених
+
+###### by mishakorzik
 
 </details>
 
@@ -241,6 +245,7 @@ mishakorzik/mishakorzik.github.io is licensed under the
 
  Чи не забуть зайти на Realises там ще більше інформація
  Про безпеки і не тільки рекомендую зайти!
+###### by mishakorzik
 
  </Details>
  
