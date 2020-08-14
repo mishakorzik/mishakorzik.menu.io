@@ -1,4 +1,4 @@
-
+<h2 align="center">
   <img width = "100px" src = "https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align = "center" alt = "mishakorzik.github.io" />
  <h2 align = "center"> mishakorzik.github.io </ h2>
   <p align = "center">ようこそmishakorzik.github.ioを始めましょう！</ p>
