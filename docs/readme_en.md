@@ -53,14 +53,16 @@
 <details id = "missing-code-coverage">
    <summary>Extras</summary>
 
-Here you can see the red FAILED button if you click
+Here you can see the red report bugs button if you click
 on it then you will go to reportbugs this button takes 
 you to another page then if you find a bug click on 
 this button!
- 
+
+####### by mishakorzik
+
 </details>
 
- [![CircleCI](https://circleci.com/gh/bahmutov/cypress-react-unit-test/tree/main.svg?style=svg)](/docs/readme.reportbugs.md) 
+#### <a href="/docs/readme.reportbugs.md">report bugs</a>
 
  ---
 
@@ -96,6 +98,8 @@ this button!
  It can even be seen here that we have the newest version of the safe
  5.1.x means that we have a new one
  The version is secure and the site is officially protected
+
+###### by mishakorzik
 
  </details>
 
@@ -237,6 +241,8 @@ this button!
 
  Don't forget to visit Realises for even more information
  About safety and not only I recommend to come!
+
+###### by mishakorzik
 
  </details>
 
