@@ -26,6 +26,7 @@
             <p align="center">
  <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>  
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
   <h3 align="center">
     <a href="/docs/readme_ua.md">Ukraine</a>
     ·
