@@ -86,6 +86,10 @@
 
 8.<a href="https://github.com/mishakorzik/mindustry.packmod">миндустри-пакмод</a>
 
+# Содержание
+- <a href="/docs/README_IOS.md">Ios</a>
+- <a href="/docs/README_Android.md">android</a>
+- <a href="/docs/README_windows.md">windows</a>
 
 # Полиция безпеки
 
