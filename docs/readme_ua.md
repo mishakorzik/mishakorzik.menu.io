@@ -86,6 +86,10 @@
 
 8.<a href="https://github.com/mishakorzik/mindustry.packmod">міндустрі-пакмод-</a>
 
+# Зміст
+- <a href="/docs/README_IOS.md">Ios</a>
+- <a href="/docs/README_Android.md">android</a>
+- <a href="/docs/README_windows.md">windows</a>
 
 # Поліція безпеки
 
