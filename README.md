@@ -70,7 +70,7 @@
 
 # Проекти
 
-1.<a href="https://github.com/mishakorzik/Termux-1w">хакинг#1 проект закрит</a>
+1.<a href="https://github.com/mishakorzik/Termux-1">хакинг#1</a>
 
 2.<a href="https://github.com/mishakorzik/Games">топ 15-30крутих игор</a>
 
