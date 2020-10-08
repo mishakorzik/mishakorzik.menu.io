@@ -265,4 +265,4 @@ this button!
 ###### By mishakorzik (DeplayGo)
 ###### Создатель Міша Коржик 
 
-<a href="/docs/readme_beta-test.md"</a>
+<a href="/docs/readme_beta-test.md">Beta測試網站</a>
