@@ -41,8 +41,7 @@
 - [MIT License](#MIT-License)
 - [Beta testing](#Beta-test)
 - <a href="/docs/readme.reportbugs.md">report bugs</a>
-- <a href="/docs/readme.reportbugs.md">Options</a>
-- <a href="/Server/README.md
+- <a href="/Server/README.md">Options</a>
 
 <details id="missing-code-coverage">
   <summary>знайшли баг?</summary>
@@ -57,7 +56,7 @@
 
 </details>
 
-#### <a href="/docs/readme.reportbugs.md">report bugs</a>
+#### <a href="/docs/readme.reportbugs.md">report bugs on broblems</a>
 
 ---
 
