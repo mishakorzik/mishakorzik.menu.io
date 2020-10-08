@@ -154,8 +154,11 @@ this button!
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
 
-
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/mishakorzik/mishakorzik.github.io)
+
+[![](https://raw.githubusercontent.com/yutakatay/yutakatay/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/mishakorzik/mishakorzik.menu.io.)
+[![](https://raw.githubusercontent.com/yutakatay/yutakatay/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/mishakorzik/mishakorzik.menu.io)
+
 
  ---
 
