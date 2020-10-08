@@ -39,6 +39,10 @@
 - [Top Languages](#Top-Languages) 
 - [Platforms](#Platforms)
 - [MIT License](#MIT-License)
+- [Beta testing](#Beta-test)
+- <a href="/docs/readme.reportbugs.md">report bugs</a>
+- <a href="/docs/readme.reportbugs.md">Options</a>
+- <a href="/Server/README.md
 
 <details id="missing-code-coverage">
   <summary>знайшли баг?</summary>
