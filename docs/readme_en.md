@@ -265,4 +265,4 @@ this button!
 ###### By mishakorzik (DeplayGo)
 ###### Создатель Міша Коржик 
 
-<a href="/docs/readme_cn.md">简体中文</a>
+<a href="/docs/readme_beta-test.md"</a>
