@@ -131,6 +131,8 @@
 
 - [x] 3. Security Policy
 
+---
+
 ### Impact
 _This site is safe for children from 7 years old so there will be no problems_
 
@@ -148,6 +150,7 @@ If you have any questions or comments about this advisory:
 * Open an issue in [example link to repo](http://example.com)
 * Email us at [example email address](mailto:misakorzik528@gmail.com)
 
+---
 
 # обратная связь
 
