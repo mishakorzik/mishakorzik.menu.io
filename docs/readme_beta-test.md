@@ -7,7 +7,7 @@
 
 
 
-[![Github Release](https://img.shields.io/github/release/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](https://github.com/trackercli/covid19-tracker-cli/releases) [![Github Star](https://img.shields.io/github/stars/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](https://github.com/trackercli/covid19-tracker-cli) [![Github Fork](https://img.shields.io/github/forks/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](https://github.com/trackercli/covid19-tracker-cli) [![License](https://img.shields.io/github/license/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](https://github.com/trackercli/covid19-tracker-cli) [![Powered By](https://img.shields.io/badge/Powered%20By-NodeJS-green.svg?style=for-the-badge)](https://nodejs.org)
+[![Github Release](https://img.shields.io/github/release/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](ERR) [![Github Star](https://img.shields.io/github/stars/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](https://github.com/mishakorzik/mishakorzik.menu.io) [![Github Fork](https://img.shields.io/github/forks/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](https://github.com/mishakorzik/mishakorzik.menu.io) [![License](https://img.shields.io/github/license/trackercli/covid19-tracker-cli.svg?style=for-the-badge)](ERR) [![Powered By](https://img.shields.io/badge/Powered%20By-NodeJS-green.svg?style=for-the-badge)](https://nodejs.org)
 
    <p align="center">
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
@@ -16,13 +16,13 @@
             <p align="center">
  
   <h3 align="center">
-    <a href="/docs/readme_ua.md">Ukraine</a>
+    <a href="ERR">Ukraine</a>
     ·
-    <a href="/docs/readme_en.md">English</a>
+    <a href="ERR">English</a>
     ·
-    <a href="/docs/readme_ru.md">Russia</a>
+    <a href="ERR">Russia</a>
     ·
-    <a href="/docs/readme_cn.md">China</a>
+    <a href="ERR">China</a>
 </h3>
   
 - Привер ти попал на mishakorzik.github.io етот сайт будет
