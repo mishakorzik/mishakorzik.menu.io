@@ -131,6 +131,23 @@
 
 - [x] 3. Security Policy
 
+### Impact
+_This site is safe for children from 7 years old so there will be no problems_
+
+### Patches
+_Has the problem been patched? What versions should users upgrade to?_YES!
+
+### Workarounds
+_Is there a way for users to fix or remediate the vulnerability without upgrading?_YES!
+
+### References
+_Are there any links users can visit to find out more?_YES!
+
+### For more information
+If you have any questions or comments about this advisory:
+* Open an issue in [example link to repo](http://example.com)
+* Email us at [example email address](mailto:misakorzik528@gmail.com)
+
 
 # обратная связь
 
