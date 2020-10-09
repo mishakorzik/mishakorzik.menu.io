@@ -39,7 +39,11 @@
 - [Top Languages](#Top-Languages) 
 - [Platforms](#Platforms)
 - [MIT License](#MIT-License)
+
+# For beta testers
+
 - [Beta testing](#Beta-test)
+- [special access](#special-access)
 - <a href="/docs/readme.reportbugs.md">report bugs</a>
 - <a href="/Server/README.md">Options</a>
 
@@ -237,7 +241,7 @@ without source code.
 
 - ✔️Commercial use
 
-- ✔️Modification
+- ✔️Modification 
 
 - ✔️Distribution
 
@@ -245,7 +249,13 @@ without source code.
 
 - ✔️Limitations
 
+- ✔️Beta test
+
+- ✔️Alpha test
+
 ### limitations
+
+- ❌Authorization
 
 - ❌Liability
 
@@ -269,12 +279,14 @@ without source code.
  
 
 
-              НАДЕЮСЬ ТИ ОЦЕНИШ                    ЗАРАНИЕ
-              МОЙ ТРУД И СТАРАНИЕ!                 СПАСИБО!
+              НАДЕЮСЬ ТИ ОЦЕНИШ                    ЗАРАНИЕ СПАСИБО
+              МОЙ ТРУД И СТАРАНИЕ!                 БЕТА ТЕСТЕР!!
+
 
 
 
 
 ###### By mishakorzik (DeplayGo)
+###### Автор Миша Коржик (DeplayGo)
 ###### Создатель Міша Коржик (DeplayGo)
 
