@@ -131,6 +131,26 @@ Gmail: misakorzik528@gmail.com
 Если есть вопрос то можеш нам написать в коментарях
 Или на gmail как тебе удобно но лучше на gmail.
 
+# special access
+
+hi this is a special access site
+in special access several functions are canceled or added.
+
+1. Revoked authorization in beta test
+
+2. Special access mode is enabled
+
+3. Alpha and beta test mode enabled
+
+contact us or have any questions about 
+the beta test in the mail.
+
+misakorzik528@gmail.com
+
+if there are any questions then email us 
+that you are a beta tester and contact us.
+
+
 # Соц. Сети
 
 Привет если хочеш то можеш 
