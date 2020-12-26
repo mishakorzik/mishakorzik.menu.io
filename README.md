@@ -292,6 +292,4 @@ without source code.
 ###### Создатель Міша Коржик (DeplayGo)
 
 Проблёмы с realises? Не можеш зайти?
-Еслы тебе не отображаеться realises то 
-
-<a href="https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.8.0">Клик</a>
+Еслы тебе не отображаеться realises то <a href="https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.8.0">Клик</a>
