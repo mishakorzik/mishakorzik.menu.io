@@ -88,6 +88,8 @@
 
 9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">new sms-bomber</a>
 
+10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Android hack</a>
+
 # Зміст
 - <a href="/docs/README_IOS.md">Ios</a>
 - <a href="/docs/README_Android.md">android</a>
