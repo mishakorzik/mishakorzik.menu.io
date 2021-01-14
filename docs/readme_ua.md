@@ -86,11 +86,11 @@
 
 8.<a href="https://github.com/mishakorzik/mindustry.packmod">міндустрі-пакмод-</a>
 
-9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">new sms-bomber</a>
+9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">Новий смс-бомбер</a>
 
-10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Android hack</a>
+10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Взлом Андроіда</a>
 
-11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Brytforst Mail</a>
+11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Брутфорст емейла</a>
 
 
 # Зміст
