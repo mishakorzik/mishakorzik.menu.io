@@ -86,7 +86,7 @@
 
 8.<a href="https://github.com/mishakorzik/mindustry.packmod">mindustry-packmod</a>
 
-9. 
+9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">new sms-bomber</a>
 
 # Зміст
 - <a href="/docs/README_IOS.md">Ios</a>
