@@ -86,6 +86,13 @@
 
 8.<a href="https://github.com/mishakorzik/mindustry.packmod">миндустри-пакмод</a>
 
+9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">Новий смс-бомбер</a>
+
+10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Взлом Андроида</a>
+
+11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Брутфорст емейлов</a>
+
+
 # Содержание
 - <a href="/docs/README_IOS.md">Ios</a>
 - <a href="/docs/README_Android.md">android</a>
