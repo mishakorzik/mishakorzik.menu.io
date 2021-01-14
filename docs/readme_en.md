@@ -85,6 +85,13 @@ this button!
 
 8.<a href="https://github.com/mishakorzik/mindustry.packmod">mindustry-packmod</a>
 
+9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">new sms-bomber</a>
+
+10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Android hack</a>
+
+11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Brytforst Mail</a>
+
+
 # Content
 - <a href="/docs/README_IOS.md">Ios</a>
 - <a href="/docs/README_Android.md">android</a>
