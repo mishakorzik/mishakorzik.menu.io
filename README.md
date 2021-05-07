@@ -42,7 +42,7 @@
 ---
 
 # Features
-
+- <a href="https://github.com/mishakorzik/MyMods-ForMinecraft">MyMods-Minecraft</a>
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - [Проекти](#Проекти)
 - <a href="https://standardjs.com/">javascript</a>
