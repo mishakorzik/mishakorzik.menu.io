@@ -43,7 +43,7 @@
 ---
                
 # Улюблене
-
+- <a href="https://github.com/mishakorzik/MyMods-ForMinecraft">Мої Моди-Майнкрафт</a>
 - <a href="/exaples/Readme_reklams.md">Реклама</a>
 - <a href="https://standardjs.com/">джава скрипт</a>
 - <a href="https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.7.1">Реліз</a>
