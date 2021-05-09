@@ -91,6 +91,7 @@ this button!
 
 11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Brytforst Mail</a>
 
+12.<a href="https://github.com/mishakorzik/Termux-Setting">Termux-Setting</a>
 
 # Content
 - <a href="/docs/README_IOS.md">Ios</a>
