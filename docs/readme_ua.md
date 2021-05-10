@@ -94,6 +94,8 @@
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Авто настройка-термукса</a>
 
+13.<a href="https://github.com/mishakorzik/Proxy-Search">Шукач-Проксі</a>
+
 # Зміст
 - <a href="/docs/README_IOS.md">Ios</a>
 - <a href="/docs/README_Android.md">android</a>
