@@ -94,7 +94,7 @@
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Termux-Setting</a>
 
-13.<a href="https://github.com/mishakorzik/Proxy-Search">Proxi-Search</a>
+13.<a href="https://github.com/mishakorzik/Proxy-Search">Proxy-Search</a>
 
 # Зміст
 - <a href="/docs/README_IOS.md">Ios</a>
