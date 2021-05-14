@@ -45,7 +45,7 @@
 - [Beta testing](#Beta-test)
 - [special access](#special-access)
 - <a href="/docs/readme.reportbugs.md">report bugs</a>
-- <a href="/Server/README.md">Options</a>
+- <a href="/Server/README.mdh">Options</a>
 
 <details id="missing-code-coverage">
   <summary>знайшли баг?</summary>
