@@ -88,13 +88,15 @@
 
 9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">Новий смс-бомбер</a>
 
-10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Взлом Андроіда</a>
+10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Взлом Андроїда</a>
 
 11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Брутфорст емейла</a>
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Авто настройка-термукса</a>
 
 13.<a href="https://github.com/mishakorzik/Proxy-Search">Шукач-Проксі</a>
+
+14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Маскировка фишинга</a>
 
 # Зміст
 - <a href="/docs/README_IOS.md">Ios</a>
