@@ -94,7 +94,9 @@
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Авто настройка-термукс</a>
 
-13.<a href="https://github.com/mishakorzik/Proxy-Search">Proxy-Search</a>
+13.<a href="https://github.com/mishakorzik/Proxy-Search">Прокси шукач</a>
+
+14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Маскировка фишингаh</a>
 
 # Содержание
 - <a href="/docs/README_IOS.md">Ios</a>
