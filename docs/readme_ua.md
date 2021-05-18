@@ -92,7 +92,7 @@
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Авто настройка-термукса</a>
 
-13.<a href="https://github.com/mishakorzik/Proxy-Search">Шукач-Проксі</a>
+13.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
 
 14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Маскировка фишинга</a>
 
