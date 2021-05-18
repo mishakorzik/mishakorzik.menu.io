@@ -91,7 +91,7 @@ this button!
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Termux-Setting</a>
 
-13.<a href="https://github.com/mishakorzik/Proxy-Search">Proxy-Search</a>
+13.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
 
 14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Mask-Phish</a>
 
