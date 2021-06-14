@@ -92,9 +92,11 @@
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Авто настройка-термукса</a>
 
-13.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
+13.<a href="https://github.com/mishakorzik/Free-Proxy">Бесплатно Прокси</a>
 
 14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Маскировка фишинга</a>
+
+15. <a href="https://github.com/mishakorzik/AllHackingTools">Всі інструменти для взлому</a>
 
 # Зміст
 - <a href="/docs/README_IOS.md">Ios</a>
