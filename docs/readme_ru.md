@@ -96,6 +96,8 @@
 
 14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Маскировка фишинга</a>
 
+15. <a href="https://github.com/mishakorzik/AllHackingTools">Всё Инструмент для хакинга</a>
+
 # Содержание
 - <a href="/docs/README_IOS.md">Ios</a>
 - <a href="/docs/README_Android.md">android</a>
