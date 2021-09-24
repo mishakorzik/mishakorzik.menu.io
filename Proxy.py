@@ -1,6 +1,9 @@
 import threading
 import requests
-
+import sys
+import os
+import time
+https://api.proxyscrape.com/?request=displayproxies&proxytype=http&country=RU
 global info
 global proxy
 
@@ -34,3 +37,5 @@ def checkproxy(ip, prox):
 		f = open("proxies.txt", "a+")
 		f.write("{}\n".format(prox))
                 f.close()
+		
+
