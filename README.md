@@ -1,6 +1,6 @@
 
-<h2 align="center">mishakorzik.github.io</h2>
- <p align="center"> Welcome too mishakorzik.github.io get started!</p
+<h2 align="center">None</h2>
+ <p align="center"> Welcomee too ##########.github.io get started!</p
 
      
  [![GitHub release](https://img.shields.io/github/release/castagnait/plugin.video.netflix.svg)](https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.7.1)
@@ -12,16 +12,15 @@
     <a href="https://github.com/mishakorzik/mishakorzik.menu.io/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/mishakorzik/mishakorzik.menu.io/issues">
+ <a href="https://github.com/mishakorzik/mishakorzik.menu.io/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
       <p align="center">
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>  
        <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
             <p align="center">
+             
  <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>  
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
@@ -44,7 +43,7 @@
 - [Проекти](#Проекти)
 - <a href="https://standardjs.com/">javascript</a>
 - <a href="https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.7.1">Realises</a>
-- [Top Languages](#Top-Languages) 
+  [Top Languages](#Top-Languages) 
 - [Platforms](#Platforms)
 - [MIT License](#MIT-License)
 
@@ -65,17 +64,17 @@
 
 ---
 
-# Проекти
+# 项目
 
 1.<a href="https://github.com/mishakorzik/Termux-1">хакинг#1</a>
 
-2.<a href="https://github.com/mishakorzik/Games">топ 15-30крутих игор</a>
+2.<a href="https://github.com/mishakorzik/">топ 15-30крутих игор</a>
 
 3.<a href="https://github.com/mishakorzik/secret_apps">секретние приложение</a>
 
-4.<a href="https://github.com/mishakorzik/mindustry-maps-">миндустри карти</a>
+4.<a href="https://github.com/mishakorzik/">миндустри карти</a>
 
-5.<a href="https://github.com/mishakorzik/Termux-2-">хакинг#2</a>
+5.<a href="https://github.com/mishakorzik/">хакинг#2</a>
 
 6.<a href="https://github.com/mishakorzik/termux-sms-bomber300">sms-bomber300</a>
 
@@ -85,24 +84,24 @@
 
 9.<a href="https://github.com/mishakorzik/New-sms-call-bomber">new sms-bomber</a>
 
-10.<a href="https://github.com/mishakorzik/android-hack-for-ip_TERMUX">Android hack</a>
+10.<a href="https://github.com/mishakorzik/">Android hack</a>
 
-11.<a href="https://github.com/mishakorzik/brytforst_mail-yandex-Termux">Brytforst Mail</a>
+11.<a href="https://github.com/mishakorzik/">Brytforst Mail</a>
 
 12.<a href="https://github.com/mishakorzik/Termux-Setting">Termux-Setting</a>
 
 13.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy</a>
 
-14. <a href="https://github.com/mishakorzik/Mask-Phish.Termux">Mask-Phish</a>
+14. <a href="https://github.com/mishakorzik/">Mask-Phish</a>
 
 15. <a href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools</a>
 
-16. <a href="https://github.com/mishakorzik/YoutubeVideoHack">YoutubeVideoHack</a>
+16. <a href="https://github.com/mishakorzik/">YoutubeVideoHack</a>
 
 # Зміст
-- <a href="/docs/README_IOS.md">Ios</a>
-- <a href="/docs/README_Android.md">android</a>
-- <a href="/docs/README_windows.md">windows</a>
+- <a href="/docs/READ">Ios</a>
+- <a href="/docs/READ">android</a>
+- <a href="/docs/READ">windows</a>
 
 # Security Policy
 
@@ -161,7 +160,7 @@ _Are there any links users can visit to find out more?_YES!
 ### For more information
 If you have any questions or comments about this advisory:
 * Open an issue in [example link to repo](http://example.com)
-* Email us at [example email address](mailto:misakorzik528@gmail.com)
+* Email us at [example email address](mailto: This email is not supported)
 
 ---
 
@@ -291,4 +290,4 @@ without source code.
 Еслы тебе не отображаеться realises то <a href="https://github.com/mishakorzik/mishakorzik.menu.io/releases/tag/1.8.0">Клик</a>
 
 
-###### By mishakorzik (DeplayGo)
+###### By mishakorzik 
