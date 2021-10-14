@@ -130,7 +130,7 @@
 
 # обратная связь
 
-Gmail: misakorzik528@gmail.com
+Gmail: miguardzecurity@gmail.com
 
 Если есть вопрос то можеш нам написать в коментарях
 Или на gmail как тебе удобно но лучше на gmail.
@@ -149,7 +149,7 @@ in special access several functions are canceled or added.
 contact us or have any questions about 
 the beta test in the mail.
 
-misakorzik528@gmail.com
+miguardzecurity@gmail.com
 
 if there are any questions then email us 
 that you are a beta tester and contact us.
@@ -171,10 +171,10 @@ https://www.instagram.com/korzik_misha/
 
 # Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mishakorzik/mishakorzik.github.i)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stat)
 
 ---
 
@@ -279,14 +279,8 @@ without source code.
  
 
 
-              НАДЕЮСЬ ТИ ОЦЕНИШ                    ЗАРАНИЕ СПАСИБО
-              МОЙ ТРУД И СТАРАНИЕ!                 БЕТА ТЕСТЕР!!
-
-
-
-
-
-###### By mishakorzik (DeplayGo)
-###### Автор Миша Коржик (DeplayGo)
-###### Создатель Міша Коржик (DeplayGo)
+       
+## mishakorzik (DeplayGo)
+######р Миша Коржик (DeplayGo)
+### Сатель Міша Коржик (DeplayGo)
 
