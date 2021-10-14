@@ -280,7 +280,7 @@ without source code.
 
 
        
-## mishakorzik (DeplayGo)
-######р Миша Коржик (DeplayGo)
-### Сатель Міша Коржик (DeplayGo)
+## mishakorzik (DayGo)
+######р Миша Коржик (Depl)
+### Сатель Міша Коржик (yGo)
 
