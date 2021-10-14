@@ -25,11 +25,11 @@
     </a>  
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
   <h3 align="center">
-    <a href="/docs/readme_ua.md">Ukraine</a>
+    <a href="/docs/">Ukraine</a>
     ·
     <a href="/docs/readme_en.md">English</a>
     ·
-    <a href="/docs/readme_ru.md">Russia</a>
+    <a href="/docs/">Russia</a>
 </h3>
   
 - Привер ти попал на mishakorzik.github.io етот сайт будет
