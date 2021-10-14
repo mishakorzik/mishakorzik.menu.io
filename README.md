@@ -167,7 +167,7 @@ If you have any questions or comments about this advisory:
 
 # обратная связь
 
-Gmail: misakorzik528@gmail.com
+Gmail: miguardzecurity@gmail.com 
 
 Если есть вопрос то можеш нам написать в коментарях
 Или на gmail как тебе удобно но лучше на gmail.
@@ -292,4 +292,3 @@ without source code.
 
 
 ###### By mishakorzik (DeplayGo)
-###### Создатель Міша Коржик (DeplayGo)
