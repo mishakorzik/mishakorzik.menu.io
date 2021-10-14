@@ -160,13 +160,13 @@ _Are there any links users can visit to find out more?_YES!
 ### For more information
 If you have any questions or comments about this advisory:
 * Open an issue in [example link to repo](http://example.com)
-* Email us at [example email address](mailto:misakorzik528@gmail.com)
+* Email us at [example email address](mailto:miguardzecurity@gmail.com)
 
 ---
 
  # Feedback
 
- Gmail: misakorzik528@gmail.com
+ Gmail: miguardzecurity@gmail.com
 
  If you have a question, you can write to us in the comments
  Or on gmail as you like, but better on gmail.
