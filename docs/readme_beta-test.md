@@ -282,5 +282,5 @@ without source code.
        
 ## mishakorzik (DayGo)
 ######р Миша Коржик (Depl)
-### Сатель Міша Коржик (yGo)
+### Сатель МКорк (yGo)
 
