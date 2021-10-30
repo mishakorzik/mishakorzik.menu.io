@@ -64,7 +64,7 @@
 
 ---
 
-# 项目
+# Project
 
 1.<a href="https://github.com/mishakorzik/Termux-1">хакинг#1</a>
 
