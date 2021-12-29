@@ -1,0 +1,8 @@
+{"name": "He1Zen"}
+{"developer": "misha korzhik"}
+{"discord": "misha korzhik [He1Zen]#6495"}
+{"company": "FlyZero 2018-2022©"}
+{"version": "1.5.2 расширенная"}
+{"language": "python 3.7"}
+{"servers": "40 серверов"}
+{"modules": "discord, random, sqlite3, time, requests, sys, os, json, asyncio"}
