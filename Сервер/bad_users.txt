@@ -93,3 +93,4 @@
 
 Краш боты - crash bot
 01.Groovy#7877
+02. DisDev#2129
