@@ -101,4 +101,4 @@
 02. DisDev#2129
 
 Разработчик(ы) краш бота:
-01. CrazyDevNEW#7424 - бот; DisDev#2129
+01. CrazyDevNEW#7424 - бот: DisDev#2129
