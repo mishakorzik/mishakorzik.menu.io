@@ -117,7 +117,7 @@
 03. DISCORD PROTECTOR#5920 - рейдит сервер 
 04. Server Check 2.0#8788 - крашит !attack
 
-Разработчик(ы) краш бота:
+Разработчик(и) краш бота:
 01. CrazyDevNEW#7424 - бот: DisDev#2129
 02. Sleudr#0198 - бот: Server Check 2.0#8788
 03. dez1#9146 - бот: Server Check 2.0#8788
