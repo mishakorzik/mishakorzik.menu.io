@@ -114,8 +114,10 @@
 Краш боты - crash bot
 01. Groovy#7877 - крашит +hacked
 02. DisDev#2129 - моментально удаляет всё
-03. DISCORD PROTECTOR#5920 - рейдит сервер 
+03. DISCORD PROTECTOR#5920 - неизвесно
 04. Server Check 2.0#8788 - крашит !attack
+05. Chaos BOT#8764 - крашит !attack
+06. Anonymous BOT#7821 -крашит !go
 
 Разработчик(и) краш бота:
 01. CrazyDevNEW#7424 - бот: DisDev#2129
