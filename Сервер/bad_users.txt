@@ -139,6 +139,7 @@
 01. CrazyDevNEW#7424 - бот: DisDev#2129
 02. Sleudr#0198 - бот: Server Check 2.0#8788
 03. dez1#9146 - бот: Server Check 2.0#8788
+04. maslo#0001 - бот: zxcursed#5615
 
 Плагиаты бота He1Zen:
 01. Maglex#2245 - скопировал команды плохие 
