@@ -135,6 +135,7 @@
 05. Chaos BOT#8764 - крашит !attack
 06. Anonymous BOT#7821 - крашит !go
 07. Voice BOT#1001 - крашит моментально
+08. MEE6 For Developers#0766 - крашит !nuke
 
 Разработчик(и) краш бота:
 01. CrazyDevNEW#7424 - бот: DisDev#2129
