@@ -134,6 +134,7 @@
 04. Server Check 2.0#8788 - крашит !attack
 05. Chaos BOT#8764 - крашит !attack
 06. Anonymous BOT#7821 - крашит !go
+07. Voice BOT#1001 - крашит моментально
 
 Разработчик(и) краш бота:
 01. CrazyDevNEW#7424 - бот: DisDev#2129
