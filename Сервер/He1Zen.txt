@@ -3,3 +3,4 @@ file: sender.py    -   True
 file: files.py     -   True
 file: anti-scam.py -   True
 file: logs.py      -   True
+file: debug.py     -   False
