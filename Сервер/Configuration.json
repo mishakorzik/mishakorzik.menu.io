@@ -1,8 +1,12 @@
 {"name": "He1Zen"}
 {"developer": "misha korzhik"}
-{"discord": "misha korzhik [He1Zen]#6495"}
+{"discord": "misha korzhik [He1Zen]#5742"}
 {"company": "FlyZero 2018-2022©"}
-{"version": "1.5.2 расширенная"}
+{"version": "h!version"}
+{"hosting": "Arch Linux x64"}
+{"email-server": "smtp.gmail.com"}
+{"server-name": "He1Zen Project"}
+{"global-server": ""}
 {"language": "python 3.7"}
-{"servers": "40 серверов"}
-{"modules": "discord, random, sqlite3, time, requests, sys, os, json, asyncio"}
+{"servers": "It's a big secret :"}
+{"modules": "discord, random, time, requests, sys, os, json, asyncio"}
