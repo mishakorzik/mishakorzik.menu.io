@@ -1,4 +1,4 @@
-file: main.py      -   True  1780 ОЗУ
+file: main.py      -   True  2150 ОЗУ
 file: sender.py    -   True  460 ОЗУ
 file: files.py     -   True  420 ОЗУ
 file: anti-scam.py -   True  210 ОЗУ
