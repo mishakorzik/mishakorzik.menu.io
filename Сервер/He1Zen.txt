@@ -2,5 +2,5 @@ file: main.py      -   True  1255 ОЗУ
 file: sender.py    -   True  370 ОЗУ
 file: files.py     -   True  450 ОЗУ
 file: anti-scam.py -   True  250 ОЗУ
-file: logs.py      -   True  173 ОЗУ
+file: logs.py      -   True  140 ОЗУ
 file: debug.py     -   False 0 ОЗУ
