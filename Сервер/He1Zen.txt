@@ -4,3 +4,8 @@ file: files.py     -   True
 file: anti-scam.py -   True  
 file: logs.py      -   True 
 file: debug.py     -   False 
+file: SIGTERM      -   False
+
+serv: 127.0.0.1:8080  -  True
+serv: 127.0.0.1:8888  -  True
+serv: 127.0.0.1:9999  -  False
