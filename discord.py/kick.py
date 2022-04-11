@@ -1,4 +1,6 @@
-@bot.command(name="kick", aliases=['Кикнуть', 'кик', 'Кик', 'кикнуть', 'Kick'])
+
+
+@client.command(name="kick", aliases=['Кикнуть', 'кик', 'Кик', 'кикнуть', 'Kick'])
 @commands.has_permissions(kick_members = True)
 async def kick(ctx, member: discord.Member, *, reason = 'не указано'):
     title = "👢 • "+member.name+" кикнут(а)."
