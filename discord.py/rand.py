@@ -16,7 +16,7 @@ def roll_convert(argument):
     }
     return switcher.get(intarg, "what")
 
-@bot.command(aliases = ['random', 'Random', 'Roll', 'roll', 'Рандом', 'рандом'])
+@client.command(aliases = ['random', 'Random', 'Roll', 'roll', 'Рандом', 'рандом'])
 async def __roll(ctx):
     r = str(random.randrange(1, 101))
     mes = 'Рандомное число  -  '
