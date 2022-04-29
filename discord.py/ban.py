@@ -1,3 +1,5 @@
+#Команда бан - command ban
+
 @client.command(name="ban", aliases=['Забанить', 'Бан', 'бан', 'Забанити', 'забанити', 'забанить', 'Ban'])
 @commands.has_permissions(ban_members = True)
 async def ban(ctx, member: discord.Member, *, reason = 'Не указано'):
