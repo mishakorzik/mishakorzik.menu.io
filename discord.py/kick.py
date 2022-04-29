@@ -1,4 +1,4 @@
-
+#Команда кик - kick command
 
 @client.command(name="kick", aliases=['Кикнуть', 'кик', 'Кик', 'кикнуть', 'Kick'])
 @commands.has_permissions(kick_members = True)
