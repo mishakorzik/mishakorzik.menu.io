@@ -115,7 +115,7 @@
 03. 𝐈𝐋𝐋Ξ𝐆Δ𝐋〢𝒥𝒶𝑔𝓊𝒶𝓇 Ďęмøņ#8291
 
 Краш боты - crash bot
-01. Groovy#7877 - крашит +hacked
+01. Groovy#7877 - крашит $auto
 02. DisDev#2129 - моментально удаляет всё
 03. DISCORD PROTECTOR#5920 - неизвесно крашет
 04. Server Check 2.0#8788 - крашит !attack
