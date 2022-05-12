@@ -1,4 +1,5 @@
 #Рандомное число от 1 до 100 - random number from 1 to 100
+#Модули которые нужно скачать: random
 
 def roll_convert(argument):
     intarg = int(argument)
