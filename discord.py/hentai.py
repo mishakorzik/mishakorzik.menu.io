@@ -1,5 +1,5 @@
 #Хентай команда - Hentai command
-#Мрлули которые нужно скачать: hmtai
+#Модули которые нужно скачать: hmtai
 
 @client.command(name="хентай", aliases=["Хентай", "Hentai", "hentai"])
 async def хентай(ctx):
