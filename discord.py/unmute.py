@@ -1,3 +1,5 @@
+#команда размьют - unmutu command
+
 @client.command(name="unmute", aliases=['Unmute', 'Розмьт', 'розмьт', 'размьют', 'Размьют'])
 @commands.has_permissions(manage_messages=True)
 async def unmute(ctx, member: discord.Member):
