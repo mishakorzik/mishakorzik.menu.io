@@ -1,8 +1,9 @@
-№1 • Ашот          772753039110307870
-№2 • Laze          628227214156103700
-№3 • PREQUEL7      888784216698028123
-№4 • Maglex        540178921157558273
-№5 • _moonshine_   758577536720044052
-№6 • asstreliz     775068993819115542
+№01 • Ашот          772753039110307870
+№02 • Laze          628227214156103700
+№03 • PREQUEL7      888784216698028123
+№04 • Maglex        540178921157558273
+№05 • _moonshine_   758577536720044052
+№06 • asstreliz     775068993819115542
 
-If you want to add your discriminator then write to: „Xeлпeр. бота Не1Zen#1843”
+If you want to add your discriminator then write to: 
+„Xeлпeр. бота Не1Zen#1843”
