@@ -1,1 +1,1 @@
-{"ip":"6.tcp.eu.ngrok.io", "port":"10882"}
+{"ip":"6.tcp.eu.ngrok.io", "port":"10882", "socksip": "7.tcp.eu.ngrok.io", "socksport": "17912"}
