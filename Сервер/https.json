@@ -1,1 +1,1 @@
-{"socksip": "", "socksport": "", "mailip": "7.tcp.eu.ngrok.io", "mailport": "11218", "cooldown": "0.6", "browser": "192.168.56.112:8080"}
+{"socksip": "", "socksport": "", "mailip": "7.tcp.eu.ngrok.io", "mailport": "11218", "cooldown": "0.6", "browser": "0.0.0.0:0000"}
