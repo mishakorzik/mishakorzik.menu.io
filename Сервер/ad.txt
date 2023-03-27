@@ -285,3 +285,5 @@ clck.idealmedia.com
 104.21.11.242
 172.67.150.197
 23.95.12.219
+www.google-analytics.com
+ads.shorte.st
