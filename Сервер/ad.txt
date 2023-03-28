@@ -324,3 +324,5 @@ ads.shorte.st
 146.75.53.44
 151.101.65.44
 trc.taboola.com
+m.mixadvert.com
+147.135.189.55
