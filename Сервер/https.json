@@ -1,1 +1,1 @@
-{"socks5": "", "mailip": "ff", "mailport": "ff", "cooldown": "0.8", "browser": "0.0.0.0:0000", "proxy_pac_url": "0.0.0.0:0000"}
+{"socks5": "", "mailip": "0.tcp.eu.ngrok.io", "mailport": "12655", "cooldown": "0.8", "browser": "0.0.0.0:0000", "proxy_pac_url": "0.0.0.0:0000"}
