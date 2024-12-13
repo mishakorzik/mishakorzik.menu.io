@@ -1,8 +1,0 @@
-file: main.py      -   True
-file: sender.py    -   True 
-file: anti-scam.py -   True  
-file: logs.py      -   True 
-file: debug.py     -   False
-
-serv: 127.0.0.1:2030  -  True
-serv: 127.0.0.1:2040  -  False
