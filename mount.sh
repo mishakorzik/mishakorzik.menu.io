@@ -3,7 +3,7 @@ lsblk
 read -p "Select drive (ex. sdb1): " device_name
 
 device_path="/dev/$device_name"
-mount_point="/mnt/usb"
+mount_point="/mnt/$device_name"
 
 # Create mount point if it doesn't exist
 if [ ! -d "$mount_point" ]; then
