@@ -20,11 +20,11 @@ try:
 except ValueError as error:
     print("Помилка:", error)
 except KeyError:
-    print("Помилка: такої країни немає у словнику.")
+    print("Помилка: такої країни немає у словнику")
     print("Доступні країни:", ", ".join(sorted(capitals)))
 except EOFError:
-    print("Помилка: введення завершилося раніше, ніж потрібно (немає даних).")
+    print("Помилка: введення завершилося раніше, ніж потрібно (немає даних)")
 else:
-    print(f"Столиця країни «{country.title()}» — {capital}.")
+    print(f"Столиця країни '{country.title()}' - {capital}")
 finally:
     print("Пошук у словнику завершено.")
